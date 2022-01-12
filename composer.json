@@ -3,7 +3,7 @@
   "description": "The empty test and default filter as an operator",
   "type": "library",
   "keywords": ["twig", "twig-extension"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "authors": [
     {
