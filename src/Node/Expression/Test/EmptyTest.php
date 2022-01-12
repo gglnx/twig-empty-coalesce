@@ -22,7 +22,7 @@ class EmptyTest extends TestExpression
     /**
      * @inheritdoc
      */
-    public function compile(Compiler $compiler)
+    public function compile(Compiler $compiler): void
     {
         $compiler
             ->raw('twig_test_empty(')
